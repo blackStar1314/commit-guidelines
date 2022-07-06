@@ -50,7 +50,12 @@
 |style|格式|
 |docs|文档|
 
-
+## 参考文献
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Conventional Commits: A Better Way](https://medium.com/neudesic-innovation/conventional-commits-a-better-way-78d6785c2e08)
+- [How Can We Standardize Git Commits?](https://www.alibabacloud.com/blog/how-can-we-standardize-git-commits_597372)
+- [git commit 提交规范](https://www.jianshu.com/p/851ec9cd1709)
+- [Commit Message Guidelines](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#commit)
 
 
 
