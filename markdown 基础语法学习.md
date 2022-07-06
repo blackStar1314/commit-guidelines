@@ -286,6 +286,8 @@ ___
   ![](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)
   - 有ALT文本有标题
   ![美景!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "有标题")
+  - 图片添加链接
+  [![美景](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)](https://www.google.com)
     
 # 转义字符
 ## 语法
@@ -328,3 +330,6 @@ ___
   <li>1968. A great year!</li>
   <li>I think 1969 was second best.</li>
 </ul> 
+
+# 参考文献
+- https://www.markdownguide.org/basic-syntax/
