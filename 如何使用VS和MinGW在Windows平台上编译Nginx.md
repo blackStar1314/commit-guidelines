@@ -28,6 +28,7 @@
     --with-debug \
     --prefix= \
     --conf-path=conf/nginx.conf \
+    
     --pid-path=logs/nginx.pid \
     --http-log-path=logs/access.log \
     --error-log-path=logs/error.log \
